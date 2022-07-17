@@ -1,0 +1,10 @@
+*.egg-info
+**/__pycache__/
+**/.hypothesis
+**/.pytest_cache
+
+**/data
+!**/data/.gitkeep
+
+.env
+docs/_build

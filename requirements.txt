@@ -1,0 +1,4 @@
+python-dotenv
+git+https://github.com/DisnakeDev/disnake#egg=disnake[voice]
+
+docs/_build
